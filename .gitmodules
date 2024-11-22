@@ -1,0 +1,9 @@
+[submodule "Lab2_ProvisionControlNode"]
+	path = Lab2_ProvisionControlNode
+	url = git@github.com:abirthapa1/Lab2_ProvisionControlNode.git
+[submodule "Lab2_ControlNodeFiles"]
+	path = Lab2_ControlNodeFiles
+	url = git@github.com:abirthapa1/Lab2_ControlNodeFiles.git
+[submodule "Lab2_ProvisionManagedNodes"]
+	path = Lab2_ProvisionManagedNodes
+	url = git@github.com:abirthapa1/Lab2_ProvisionManagedNodes.git
